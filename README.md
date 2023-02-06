@@ -1,8 +1,8 @@
 ### Hi there 👋
-My name is Christopher Webb
-My school is General Studies
-I was a professional engineer before Columbia. 
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+* My name is Christopher Webb
+* My school is General Studies
+* I was a professional engineer before Columbia. 
+* ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <!--
 **chriswebb09/chriswebb09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
