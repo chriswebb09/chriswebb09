@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Chris 👋</h1>
-<h2 align="center">Hi there, I'm Chris 👋</h2>
 <div align="center">Hi there, I'm Chris 👋</div>
 <picture>
 <source 
