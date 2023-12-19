@@ -1,4 +1,5 @@
-<h3 align="center">Hi there, <span align="center">I'm Chris 👋</span></h3>
+<h3 align="center">Hi there,</h3>
+<p align="center">I'm Chris 👋</p>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=chriswebb09&show_icons=true&theme=dark"
