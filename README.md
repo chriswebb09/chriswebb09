@@ -1,5 +1,4 @@
-## Hi there,
-## _I'm Chris 👋_
+<h1 align="center"> Hi there,  I'm Chris 👋</h1>
 
 <picture>
 <source 
