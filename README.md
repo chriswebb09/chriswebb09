@@ -1,5 +1,5 @@
-<div align="center">Hi there,</div>
-<div align="center">I'm Chris 👋</div>
+<h1 align="center">Hi there,</h1>
+<h2 align="center">I'm Chris 👋</h2>
 
 <picture>
 <source 
