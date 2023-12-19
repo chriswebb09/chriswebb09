@@ -1,4 +1,5 @@
-<h1 align="center"> Hi there, I'm Chris 👋</h1>
+<h1 align="center">Hi there,<h1>
+<h1 align="center">I'm Chris 👋</h1>
 
 <picture>
 <source 
