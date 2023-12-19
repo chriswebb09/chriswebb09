@@ -1,9 +1,8 @@
 <h2 align="center"> Hi there,  I'm Chris 👋</h2>
 
 <p align="center">
-  <a href="chriswebb09.github.io">Blog</a> •
+  <a href="chriswebb09.github.io">Blog</a>
 </p>
-
 
 - 🔭 I’m currently working at Columbia University
 - 🌱 I’m currently learning more on React
