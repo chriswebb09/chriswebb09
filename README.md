@@ -1,5 +1,6 @@
-<h2 align="center">Hi there,</h2>
-<h3 align="center">I'm Chris 👋</h3>
+# Hi there,
+## _I'm Chris 👋_
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=chriswebb09&show_icons=true&theme=dark"
