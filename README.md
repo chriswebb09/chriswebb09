@@ -3,10 +3,10 @@
 - 🔭 I’m currently working at Columbia University
 - 🌱 I’m currently learning more on React
 - 💬 Ask me about **Swift, Javascript and Python**
-- 📫 How to reach me: [linkedin](linkedin.com/in/christopher-webb-orenstein/) on LinkedIn
+- 📫 How to reach me: [linkedin](http://www.linkedin.com/in/christopher-webb-orenstein/) on LinkedIn
 
 <p align="center">
-  <a href="chriswebb09.github.io">Blog</a>
+  <a href="http://chriswebb09.github.io">Blog</a>
 </p>
 
 <picture>
