@@ -5,6 +5,11 @@
 - 💬 Ask me about **Augmented Reality, Swift, React, Python**
 - 🌱 I’m working toward releasing some projects for VisionOS 
 
+
+<p align="center">
+  <a href="http://chriswebb09.github.io">Blog</a>
+</p>
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=chriswebb09&show_icons=true&theme=dark"
