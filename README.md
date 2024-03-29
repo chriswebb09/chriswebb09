@@ -11,7 +11,9 @@
   <a href="http://chriswebb09.github.io">Blog</a>
 </p>
 
-<picture>
+
+
+<picture align="center">
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=chriswebb09&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
