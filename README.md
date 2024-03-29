@@ -2,7 +2,8 @@
 
 - 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/christopher-webb-orenstein/)
 - 🔭 You can see more of my work at:  [chriswebb09.github.io](https://chriswebb09.github.io)
-- 💬 Ask me about **Augmented Reality**
+- 💬 Ask me about **Augmented Reality, Swift, React, Python**
+- 🌱 I’m working toward releasing some projects for VisionOS 
 
 <picture>
 <source 
