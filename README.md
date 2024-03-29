@@ -1,16 +1,16 @@
-<h2 align="center"> Hi there,  I'm Chris 👋</h2>
+<h2 align="center"> Hey there,  I'm Chris 👋</h2>
 <br/>
-  - 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/christopher-webb-orenstein/)
-  - 🔭 You can see more of my work at:  [chriswebb09.github.io](https://chriswebb09.github.io)
-  - 💬 Ask me about **Augmented Reality, Swift, React, Python**
-  - 🌱 I’m working toward releasing some projects for VisionOS 
+
+- 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/christopher-webb-orenstein/)
+- 🔭 You can see more of my work at:  [chriswebb09.github.io](https://chriswebb09.github.io)
+- 💬 Ask me about **Augmented Reality, Swift, React, Python**
+- 🌱 I’m working toward releasing some projects for VisionOS 
 
 <br/>
 <p align="center">
   <a href="http://chriswebb09.github.io">Blog</a>
 </p>
-
-
+<br/>
 <p align="center">
   <picture>
 <source 
