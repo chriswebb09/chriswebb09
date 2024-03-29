@@ -24,7 +24,10 @@
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chriswebb09&show_icons=true" />
 </picture>
-<picture>
+
+</br>
+
+<picture align="center">
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=chriswebb09&show_icons=true&theme=dark&layout=compact"
   media="(prefers-color-scheme: dark)"
