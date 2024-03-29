@@ -1,13 +1,8 @@
 <h2 align="center"> Hi there,  I'm Chris 👋</h2>
 
-- 🔭 I’m currently working at Columbia University
-- 🌱 I’m currently learning more on React
-- 💬 Ask me about **Swift, Javascript and Python**
 - 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/christopher-webb-orenstein/)
-
-<p align="center">
-  <a href="http://chriswebb09.github.io">Blog</a>
-</p>
+- 🔭 You can see more of my work at:  [chriswebb09.github.io](https://chriswebb09.github.io)
+- 💬 Ask me about **Augmented Reality**
 
 <picture>
 <source 
